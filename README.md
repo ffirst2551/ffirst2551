@@ -1,37 +1,199 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is First Cup
-=================================================================================================================================
+<div align="center">
 
-Wed developer and AI developer
---------------------------------
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F05A1A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Thapakorn+%F0%9F%91%8B;AI+%2F+ML+Engineer;Hackathon+Champion+%F0%9F%8F%86;Building+AI+for+Social+Good)](https://git.io/typing-svg)
 
-Hello, I want to be a web and app developer and make games, which I am currently practicing.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=120&section=header&text=Thapakorn%20Sae-tia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-* 🌍  I'm based in Grafton
-* ✉️  You can contact me at [firstend1998@gmail.com](mailto:firstend1998@gmail.com)
-* 🚀  I'm currently working on [Under development](http://.)
-* 🧠  I'm learning I am studying Cyber security.
-* 🤝  I'm open to collaborating on Education VR Metaverse intania
-* ⚡  I like to eat instant noodles.
+</div>
 
-<a href="https://www.github.com/Skibidi Boy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Skibidi Boy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=SkibidiB0y&show_icons=true&theme=tokyonight&hide_border=true&title_color=F05A1A&icon_color=F05A1A&text_color=ffffff&bg_color=0d1117"/>
 
+### 🧠 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-</p>
+```python
+class Thapakorn:
+    name     = "Thapakorn Sae-tia"
+    nickname = "First"
+    age      = 18
+    location = "Bangkok, Thailand 🇹🇭"
 
+    education = "Applied Computer Science @ KMUTT"
+    goal      = "Super AI Engineer Season 6 🚀"
 
-### Socials
+    passion = [
+        "Machine Learning",
+        "Computer Vision",
+        "LLM & AI Agents",
+        "Healthcare AI",
+        "Industrial Safety AI",
+    ]
 
-<p align="left"> <a href="https://discord.com/users/firstcup.2551" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Skibidi Boy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/first_kun007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@mr.brownnn/featured" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+    motto = "Every failure is a step forward."
+```
 
-### Badges
+<br clear="right"/>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Skibidi Boy"><img src="https://github-readme-stats.vercel.app/api?username=Skibidi Boy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Skibidi Boy's GitHub stats" /></a>
+## 🏆 Major Achievements
 
-<a href="https://github.com/Skibidi Boy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skibidi Boy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+
+| 🥇 Award | 🏢 Organization | 📅 Year |
+|:---|:---|:---:|
+| 🏆 **Winner** — DENSO Smart Safe Hackathon 2026 (฿100,000) | Team Sentinel-V | 2026 |
+| 🥉 **2nd Runner Up** — Super AI Engineer Season 5 (National) | AIAT | 2025 |
+| 🌏 **Special Award** — AIAT × SCBX Ethical Finance Hackathon (International) | AIAT × SCB | 2025 |
+| 🥇 **Champion** — Productivity Xcelerate Hackathon (National) | Microsoft × ATCI | 2025 |
+| 🏅 **Consolation Prize** — CEDT Innovation Summit 2025 (National) | Chulalongkorn Univ. | 2025 |
+| 🏅 **Honor of Elderly Support** — ToBeIT69 (Top 141/1,314) | ToBeIT | 2025 |
+| ✅ **Fellowship** — Young Developer Power Winter 2025 (Top 37 Nationwide) | DevA × SoulScity | 2025 |
+| 🎖️ **Most Determined** — Young Cyber Bootcamp #1 (National) | RTARF | 2025 |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 VAL-Z
+**Video-based AI · Zero-shot VLM · Factory Safety**
+
+> No retraining. No massive cost. Just plug in and detect.
+
+Built for **DENSO Hackathon 2026** — a Zero-shot Vision Language Model system that detects factory safety violations from live video feeds **without any model retraining**. Low-cost, scalable, and ready for smart factories.
+
+`Zero-shot VLM` `Video AI` `IoT` `Industrial Safety`
+
+🏆 **Winner · ฿100,000**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 PressCare
+**CNN · Medical LLM · Healthcare AI**
+
+> AI that helps nurses see what eyes might miss.
+
+A mobile app that monitors and analyzes **pressure ulcers (bedsores)** in real-time using CNN + Medical LLM. Doctors can scan wounds, track healing progress, and receive AI-powered risk assessments.
+
+`CNN` `Medical LLM` `Mobile App` `UX/UI`
+
+🥇 **National Champion** · Thailand ICT Awards 2025 Finalist
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Speak Quest
+**Whisper AI · CEFR · Firebase · EdTech**
+
+> Making English practice feel like a game — because it is.
+
+A multiplayer English-speaking minigame using **Whisper AI** for real-time voice analysis and **CEFR** framework scoring. Players compete in speaking challenges and get instant AI feedback.
+
+`Whisper` `CEFR` `Firebase` `Gamification`
+
+🏅 **Consolation Prize · CEDT Innovation Summit 2025**
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Financial Analysis Agent
+**LLM · Agentic Workflow · THALLE-7B**
+
+> Multi-agent finance. Thai regulations. Zero compromises.
+
+An AI agent for deep financial analysis using **TRIAGE + SPECIALIST AGENTS + SURGICAL PROMPTING**. Fine-tuned **THALLE-7B** on CFA data, fully aligned with Thai financial law.
+
+`LLM` `Agentic Workflow` `THALLE-7B` `CFA Data`
+
+🌏 **International Special Award · AIAT × SCBX 2025**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Tools & Platforms**
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+**IoT / Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkibidiB0y&show_icons=true&theme=tokyonight&hide_border=true&title_color=F05A1A&icon_color=F05A1A"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkibidiB0y&layout=compact&theme=tokyonight&hide_border=true&title_color=F05A1A"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SkibidiB0y&theme=tokyonight&hide_border=true&ring=F05A1A&fire=F05A1A&currStreakLabel=F05A1A)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-firstend1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firstend1998@gmail.com)
+[![LINE](https://img.shields.io/badge/LINE-firstjuneeee-00B900?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/firstjuneeee)
+[![GitHub](https://img.shields.io/badge/GitHub-Skibidi_Boy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkibidiB0y)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+*"Every time I fall, is every time I grow."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=SkibidiB0y&color=F05A1A&style=flat-square)
+
+</div>
