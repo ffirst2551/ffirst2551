@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F05A1A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Thapakorn+%F0%9F%91%8B;AI+%2F+ML+Engineer;Hackathon+Champion+%F0%9F%8F%86;Building+AI+for+Social+Good)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F05A1A&height=120&section=header&text=Thapakorn%20Sae-tia&fontSize=42&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&0062cc,003d80&height=120&section=header&text=Thapakorn%20Sae-tia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F05A1A&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Hackathon+Champion;Building+AI+for+Social+Good;Super+AI+Engineer+Season+6)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=ffirst2551&show_icons=true&theme=tokyonight&hide_border=true&title_color=F05A1A&icon_color=F05A1A&text_color=ffffff&bg_color=0d1117"/>
+### 🧠 About Me
 
 ### 🧠 About Me
 
@@ -18,10 +17,10 @@ class Thapakorn:
     name     = "Thapakorn Sae-tia"
     nickname = "First"
     age      = 18
-    location = "Bangkok, Thailand 🇹🇭"
+    location = "Bangkok, Thailand"
 
     education = "Applied Computer Science @ KMUTT"
-    goal      = "Super AI Engineer Season 6 🚀"
+    goal      = "Super AI Engineer Season 6"
 
     passion = [
         "Machine Learning",
@@ -33,8 +32,6 @@ class Thapakorn:
 
     motto = "Every failure is a step forward."
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -190,7 +187,7 @@ An AI agent for deep financial analysis using **TRIAGE + SPECIALIST AGENTS + SUR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&0062cc,003d80&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F05A1A&height=100&section=footer" width="100%"/>
 
 *"Every time I fall, is every time I grow."*
 
