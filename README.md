@@ -3,13 +3,13 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F05A1A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Thapakorn+%F0%9F%91%8B;AI+%2F+ML+Engineer;Hackathon+Champion+%F0%9F%8F%86;Building+AI+for+Social+Good)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=120&section=header&text=Thapakorn%20Sae-tia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&0062cc,003d80&height=120&section=header&text=Thapakorn%20Sae-tia&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=SkibidiB0y&show_icons=true&theme=tokyonight&hide_border=true&title_color=F05A1A&icon_color=F05A1A&text_color=ffffff&bg_color=0d1117"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=ffirst2551&show_icons=true&theme=tokyonight&hide_border=true&title_color=F05A1A&icon_color=F05A1A&text_color=ffffff&bg_color=0d1117"/>
 
 ### 🧠 About Me
 
@@ -167,10 +167,10 @@ An AI agent for deep financial analysis using **TRIAGE + SPECIALIST AGENTS + SUR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkibidiB0y&show_icons=true&theme=tokyonight&hide_border=true&title_color=F05A1A&icon_color=F05A1A"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkibidiB0y&layout=compact&theme=tokyonight&hide_border=true&title_color=F05A1A"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ffirst2551&show_icons=true&theme=tokyonight&hide_border=true&title_color=F05A1A&icon_color=F05A1A"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffirst2551&layout=compact&theme=tokyonight&hide_border=true&title_color=F05A1A"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SkibidiB0y&theme=tokyonight&hide_border=true&ring=F05A1A&fire=F05A1A&currStreakLabel=F05A1A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ffirst2551&theme=tokyonight&hide_border=true&ring=F05A1A&fire=F05A1A&currStreakLabel=F05A1A)](https://git.io/streak-stats)
 
 </div>
 
@@ -182,7 +182,7 @@ An AI agent for deep financial analysis using **TRIAGE + SPECIALIST AGENTS + SUR
 
 [![Email](https://img.shields.io/badge/Email-firstend1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firstend1998@gmail.com)
 [![LINE](https://img.shields.io/badge/LINE-firstjuneeee-00B900?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/firstjuneeee)
-[![GitHub](https://img.shields.io/badge/GitHub-Skibidi_Boy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkibidiB0y)
+[![GitHub](https://img.shields.io/badge/GitHub-ffirst2551-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ffirst2551)
 
 </div>
 
@@ -190,10 +190,10 @@ An AI agent for deep financial analysis using **TRIAGE + SPECIALIST AGENTS + SUR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&0062cc,003d80&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 *"Every time I fall, is every time I grow."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=SkibidiB0y&color=F05A1A&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ffirst2551&color=F05A1A&style=flat-square)
 
 </div>
