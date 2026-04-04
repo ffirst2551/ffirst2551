@@ -173,7 +173,6 @@ An AI agent for deep financial analysis using **TRIAGE + SPECIALIST AGENTS + SUR
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-firstend1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firstend1998@gmail.com)
-[![LINE](https://img.shields.io/badge/LINE-firstjuneeee-00B900?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/firstjuneeee)
 [![GitHub](https://img.shields.io/badge/GitHub-ffirst2551-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ffirst2551)
 
 </div>
