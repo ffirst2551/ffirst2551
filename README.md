@@ -65,7 +65,7 @@ Built for **DENSO Hackathon 2026** — a Zero-shot Vision Language Model system 
 
 `Zero-shot VLM` `Video AI` `IoT` `Industrial Safety`
 
-🏆 **Winner · ฿100,000**
+🏆 **Winner · Denso (thailand) co. ltd**
 
 </td>
 <td width="50%" valign="top">
