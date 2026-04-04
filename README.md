@@ -10,8 +10,6 @@
 
 ### 🧠 About Me
 
-### 🧠 About Me
-
 | | |
 |---|---|
 | 👤 **Name** | Thapakorn Sae-tia (First) |
