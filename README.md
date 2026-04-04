@@ -26,7 +26,6 @@
 >
 > 🏥 Healthcare AI &nbsp;·&nbsp; 🏭 Industrial Safety AI
 
-> *"Every failure is a step forward."*
 
 ---
 
