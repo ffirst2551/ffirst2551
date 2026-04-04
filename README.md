@@ -12,26 +12,21 @@
 
 ### 🧠 About Me
 
-```python
-class Thapakorn:
-    name     = "Thapakorn Sae-tia"
-    nickname = "First"
-    age      = 18
-    location = "Bangkok, Thailand"
+| | |
+|---|---|
+| 👤 **Name** | Thapakorn Sae-tia (First) |
+| 🎂 **Age** | 18 |
+| 📍 **Location** | Bangkok, Thailand |
+| 🎓 **Education** | Applied Computer Science @ KMUTT |
+| 🎯 **Goal** | Super AI Engineer Season 6 |
 
-    education = "Applied Computer Science @ KMUTT"
-    goal      = "Super AI Engineer Season 6"
+**💡 Passionate about:**
 
-    passion = [
-        "Machine Learning",
-        "Computer Vision",
-        "LLM & AI Agents",
-        "Healthcare AI",
-        "Industrial Safety AI",
-    ]
+> 🤖 Machine Learning &nbsp;·&nbsp; 👁️ Computer Vision &nbsp;·&nbsp; 🧬 LLM & AI Agents
+>
+> 🏥 Healthcare AI &nbsp;·&nbsp; 🏭 Industrial Safety AI
 
-    motto = "Every failure is a step forward."
-```
+> *"Every failure is a step forward."*
 
 ---
 
