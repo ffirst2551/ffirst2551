@@ -16,7 +16,6 @@
 | 🎂 **Age** | 18 |
 | 📍 **Location** | Bangkok, Thailand |
 | 🎓 **Education** | Applied Computer Science @ KMUTT |
-| 🎯 **Goal** | Super AI Engineer Season 6 |
 
 **💡 Passionate about:**
 
