@@ -32,7 +32,7 @@
 
 | 🥇 Award | 🏢 Organization | 📅 Year |
 |:---|:---|:---:|
-| 🏆 **Winner** — DENSO Smart Safe Hackathon 2026 (฿100,000) | Team Sentinel-V | 2026 |
+| 🏆 **Winner** — DENSO Smart Safe Hackathon 2026 | Team Sentinel-V | 2026 |
 | 🥉 **2nd Runner Up** — Super AI Engineer Season 5 (National) | AIAT | 2025 |
 | 🌏 **Special Award** — AIAT × SCBX Ethical Finance Hackathon (International) | AIAT × SCB | 2025 |
 | 🥇 **Champion** — Productivity Xcelerate Hackathon (National) | Microsoft × ATCI | 2025 |
