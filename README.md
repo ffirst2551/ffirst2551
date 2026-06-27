@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F05A1A&height=120&section=header&text=Thapakorn%20Sae-tia&fontSize=42&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F05A1A&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Hackathon+Champion;Building+AI+for+Social+Good;Super+AI+Engineer+Season+6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F05A1A&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Hackathon+Champion;Building+AI+for+Social+Good;Thai Tea)](https://git.io/typing-svg)
 
 </div>
 
